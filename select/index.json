@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "動き",
+  "base_artist": "jellyy",
+  "createdAt": "2026-02-12T09:51:08.727428Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "動き",
+      "artist": "jellyy",
+      "has_synced": false,
+      "path": "select/pl_01_動き_jellyy.txt"
+    }
+  ]
+}
